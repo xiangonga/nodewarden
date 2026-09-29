@@ -58,7 +58,7 @@
 ## Tested clients
 
 - ✅ Windows desktop
-- ✅ Mobile app
+- ✅ Mobile appp
 - ✅ Browser extension
 - ✅ Linux desktop
 - ⚠️ macOS desktop not fully verified yet
